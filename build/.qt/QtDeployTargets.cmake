@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DominGuard_FILE /home/kany/Escritorio/DominGuard/build/DominGuard)
+set(__QT_DEPLOY_TARGET_DominGuard_TYPE EXECUTABLE)

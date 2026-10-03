@@ -1,0 +1,5 @@
+/home/kany/Escritorio/DominGuard/build/CMakeFiles/DominGuard.dir
+/home/kany/Escritorio/DominGuard/build/CMakeFiles/edit_cache.dir
+/home/kany/Escritorio/DominGuard/build/CMakeFiles/rebuild_cache.dir
+/home/kany/Escritorio/DominGuard/build/CMakeFiles/DominGuard_autogen_timestamp_deps.dir
+/home/kany/Escritorio/DominGuard/build/CMakeFiles/DominGuard_autogen.dir
